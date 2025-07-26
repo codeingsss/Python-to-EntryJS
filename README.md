@@ -44,3 +44,9 @@ code.append(EntryOBJ.setPos(10,10))
 
 # 함수 목록
 Entry 폴더 안에 .py파일을 열어 함수를 확인합니다
+
+# 오브젝트 아이디 확입법
+```javascript
+Entry.container.objects_ 
+```
+이 코드를 콘솔에 입력하고 확인합니다.
